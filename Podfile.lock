@@ -1,0 +1,33 @@
+PODS:
+  - CRNavigationController (1.1)
+  - Masonry (1.0.2)
+  - PBJVideoPlayer (0.3.2)
+  - PBJVision (0.5.2)
+  - WCDB (1.0.3)
+
+DEPENDENCIES:
+  - CRNavigationController
+  - Masonry
+  - PBJVideoPlayer
+  - PBJVision (from `https://github.com/LabanL/PBJVision.git`)
+  - WCDB
+
+EXTERNAL SOURCES:
+  PBJVision:
+    :git: https://github.com/LabanL/PBJVision.git
+
+CHECKOUT OPTIONS:
+  PBJVision:
+    :commit: 78a0af51dc1454d876c5838b9c2e3514014b6941
+    :git: https://github.com/LabanL/PBJVision.git
+
+SPEC CHECKSUMS:
+  CRNavigationController: 49782af549884745f682107bcc06c2415ba3613a
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  PBJVideoPlayer: b2f79c2139e4a74711bc900dd879cee4e7ccfef6
+  PBJVision: 4e27184794c624b604ec414124e6a4d8c1517719
+  WCDB: 1f32cb4d3fa59ec36afdf827614e9f014fa5bce4
+
+PODFILE CHECKSUM: df2765c8bcb7c02b45e62b2930faab91522a0a4b
+
+COCOAPODS: 1.3.1
